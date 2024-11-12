@@ -1,0 +1,5 @@
+.cardContainer {
+    --mask: radial-gradient(30px at 100% 100%,#0000 98%,#000);
+  -webkit-mask: var(--mask);
+          mask: var(--mask);
+}
